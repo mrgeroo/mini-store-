@@ -149,7 +149,6 @@ VALUES ('4', '4', 'it has a clear sound');
 SELECT * FROM comments;
 
 
---20 function--
 
 SELECT COUNT(*) FROM customers;
 
