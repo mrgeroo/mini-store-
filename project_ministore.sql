@@ -301,4 +301,4 @@ DELETE FROM contacts
 WHERE phone_num = '01155447788';
 
 DELETE FROM contacts
-WHERE email = 'ali8888@yahoo.ccom';
+WHERE email = 'ali8888@yahoo.com';
